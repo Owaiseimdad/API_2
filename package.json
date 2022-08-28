@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Owaiseimdad/API_2/issues"
   },
-  "homepage": "https://github.com/Owaiseimdad/API_2#readme"
+  "homepage": "https://github.com/Owaiseimdad/API_2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
